@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">I’m Rohit Kumar, a dedicated and innovative Software Engineer with expertise in building scalable and dynamic applications using modern technologies. My skill set includes: • 🌐 Full-Stack Development: Proficient in the MERN stack, with hands-on experience in developing responsive, user-friendly applications like job portals and e-commerce platforms. • 🔧 Backend Development: Expertise in Node.js and Express.js for creating robust APIs and server-side logic. • 📱 Mobile Development: Skilled in React Native, creating intuitive and cross-platform mobile applications. I thrive in collaborative, fast-paced environments and constantly seek opportunities to learn, innovate, and grow as a developer. 🚀 I’m passionate about delivering impactful, user-centric solutions while staying updated with the latest technologies.</h3>
+<h3 align="center">I’m Rohit Kumar, a dedicated and innovative Software Engineer with expertise in building scalable and dynamic applications using modern technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armorix13&label=Profile%20views&color=0e75b6&style=flat" alt="armorix13" /> </p>
 
